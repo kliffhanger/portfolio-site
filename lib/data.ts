@@ -118,7 +118,6 @@ export const skillsData = [
   "Redux",
   "Bootstrap",
   "Sass",
-  "Redux",
   "jQuery",
   "Figma",
   "Wordpress",
